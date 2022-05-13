@@ -33,6 +33,75 @@
     </item>
     
     <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Fri, 13 May 2022 13:37:50 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Markdown&#34; srcset=&#34;
+               /post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_a2db5b0651fb0e7ad1b2067f37faa528.webp 400w,
+               /post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_439bd3b0f6206e689066e7fe6e992b4c.webp 760w,
+               /post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_a2db5b0651fb0e7ad1b2067f37faa528.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;392&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;markdown-markup-language-format-your-text&#34;&gt;Markdown Markup Language: Format Your Text&lt;/h1&gt;
+&lt;p&gt;Markdown is a markup language for creating formatted text using a plain-text editor. Its key design goal is readability: the language is readable as-is, without an abundance of tags or formatting instructions. This is in contrast to HTML, for example, which has obvious tags and formatting instructions that make it harder to read for humans.&lt;/p&gt;
+&lt;p&gt;Markdown is used extensively by programmers in the software engineering industry. However, it’s also widely used in:&lt;/p&gt;
+&lt;p&gt;blogging and CMS software (like WordPress),
+instant messaging and chat (like Discord, Reddit),
+online forums,
+collaborative software,
+(software) documentation,
+readme files (GitHub repositories)
+So it definitely pays to recognize and understand the syntax, which, luckily, is simple! Anyone can learn it.&lt;/p&gt;
+&lt;h1 id=&#34;learn-markdown-syntax&#34;&gt;Learn Markdown syntax&lt;/h1&gt;
+&lt;p&gt;If you’re new to Markdown, I suggest you start with my Markdown cheat sheet, which is actually more than just a cheat sheet. It contains explanations and links to further resources you might need.&lt;/p&gt;
+&lt;p&gt;Next, you may want to learn how to create a table. Although that’s covered in our cheat sheet as well, there are quite some details to it for tables to deserve their own article.&lt;/p&gt;
+&lt;p&gt;Next up: how to center things in Markdown. This is a question that I get from a lot of readers, so I’ve created an extensive article in which you learn how to center images, headers, text, and tables in Markdown.&lt;/p&gt;
+&lt;p&gt;If you’re writing technical documentation, you probably want to use Markdown code blocks. Most parsers support code blocks and even offer the option to highlight syntax.&lt;/p&gt;
+&lt;h1 id=&#34;history&#34;&gt;History&lt;/h1&gt;
+&lt;p&gt;John Gruber and Aaron Swartz created the markup language in 2004, with the goal of creating something that is readable and appealing to human readers in its source code form. The result: it generally improves the readability of your plain text instead of worsening it. With the added benefit that we can also convert Markdown to other formats, like HTML, PDF, or RTF, thanks to the used conventions.&lt;/p&gt;
+&lt;p&gt;The main inspiration for its syntax was the existing convention for marking up plain text in e-mail, although it also draws from earlier markup languages like reStructuredText.&lt;/p&gt;
+&lt;h1 id=&#34;markdown-file-extension&#34;&gt;Markdown file extension&lt;/h1&gt;
+&lt;p&gt;Markdown files have the extension .md. A file name you will encounter a lot is the README.md file in code repositories like those on GitHub. If you’re wondering what this file is, and want to know how to create one yourself, read all about it on our page about README.md files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last_week 02.05-08.05</title>
+      <link>https://example.com/post/last_week3/</link>
+      <pubDate>Fri, 13 May 2022 13:31:06 +0300</pubDate>
+      <guid>https://example.com/post/last_week3/</guid>
+      <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
+&lt;h2 id=&#34;how-was-i-last-week&#34;&gt;How was I last week?&lt;/h2&gt;
+&lt;p&gt;The week was great, because it was Victory Day, the celebration of the victory of the Red Army and the Soviet people over Nazi Germany in the Great Patriotic War of 1941-1945. I spent that time with my family in St. Petersburg and saw the majestic parade and the fantastic fireworks display. Also, I did not forget about my studies, including laboratory work, tests and papers in various disciplines, and attached all my work to TUIS on time.&lt;/p&gt;
+&lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>https://example.com/post/git/</link>
       <pubDate>Sat, 07 May 2022 04:07:28 +0300</pubDate>
@@ -114,7 +183,7 @@
     </item>
     
     <item>
-      <title>Last week</title>
+      <title>Last week 25.04-01.05</title>
       <link>https://example.com/post/last_week/</link>
       <pubDate>Sat, 07 May 2022 03:49:09 +0300</pubDate>
       <guid>https://example.com/post/last_week/</guid>

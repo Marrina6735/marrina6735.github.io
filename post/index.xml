@@ -5,12 +5,49 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 May 2022 13:37:50 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 May 2022 03:26:21 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Last_week 09.05-15.05</title>
+      <link>https://example.com/post/last_week04/</link>
+      <pubDate>Wed, 18 May 2022 03:26:21 +0300</pubDate>
+      <guid>https://example.com/post/last_week04/</guid>
+      <description>&lt;h1 id=&#34;my-last-week&#34;&gt;My last week&lt;/h1&gt;
+&lt;h2 id=&#34;how-was-i-last-week&#34;&gt;How was I last week?&lt;/h2&gt;
+&lt;p&gt;I had a wonderful time last week doing lots of tasks and work. This included lab work, programming, and creating reports, presentations, and papers. In addition, I was able to relax this weekend outside in the nice weather.&lt;/p&gt;
+&lt;h2 id=&#34;my-review-of-the-week&#34;&gt;My review of the week&lt;/h2&gt;
+&lt;p&gt;I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working_with_bibliographies</title>
+      <link>https://example.com/post/working_with_bibliographies/</link>
+      <pubDate>Wed, 18 May 2022 03:23:49 +0300</pubDate>
+      <guid>https://example.com/post/working_with_bibliographies/</guid>
+      <description>&lt;h1 id=&#34;working_with_bibliographies&#34;&gt;Working_with_bibliographies&lt;/h1&gt;
+&lt;p&gt;When starting to search for information in bibliographic editions, one should know the basic rules of working with them. It is necessary to take into account that along with some universal principles of material organization in such publications there are also specific features of each of them.&lt;/p&gt;
+&lt;p&gt;All bibliographic editions have a reference device:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;content (reflects the sections by which the material is grouped)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;auxiliary indexes (occur in various combinations depending on the edition).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The table of contents is used to work with the sections of the index. In this case, all the material included in a given section is looked through, and only the literature that is relevant to the issue under study is written out. Such a search is recommended when the researcher cares not only about specific works on the topic, but also about general literature, and when the researcher fears missing important information.&lt;/p&gt;
+&lt;p&gt;However, the most specific search, which avoids looking through redundant information, is considered to be the search with the help of auxiliary indexes. The main auxiliary indexes are: name, author, subject, geographical, title index, etc.&lt;/p&gt;
+&lt;p&gt;The author index contains the names of the authors of the works reflected in a given issue of the index or abstract journal. By contrast, the name index includes not only the names of authors, but also the names of translators, editors and personalities. The geographical index makes it easier to find information about materials in the country, regional, and local history aspects. The index of titles includes the titles of works reflected in the bibliography. As a rule, subject (subject-thematic) auxiliary indexes have a more complex structure. They consist of headings (main concepts) and subheadings (supplementing or clarifying the main concepts).&lt;/p&gt;
+&lt;p&gt;Auxiliary indexes are organized in alphabetical order; opposite each item there is a reference to the serial number of the bibliographic record in the index.
+Of course, searching using bibliographic aids is professional information retrieval. It requires some training and practice. Not all topics require such an extended literature search. Work with dictionaries, reference books, and encyclopedias is sufficient to disclose some topics. A number of other topics can be disclosed with the help of information found in the alphabetical and systematic catalogs of the nearest library (district, city, university). But there are topics and questions for which there is very little information, and one has to collect it using all search options. The broader the topic is formulated, the easier it is to find literature on it. Accordingly, the narrower the topic, the more difficult it will be to select the necessary literature.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Markdown</title>
@@ -36,10 +73,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Markdown&#34; srcset=&#34;
-               /post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_a2db5b0651fb0e7ad1b2067f37faa528.webp 400w,
+               /post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_0ee758a4da6fa40941c2a64b6a2e2a44.webp 400w,
                /post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_439bd3b0f6206e689066e7fe6e992b4c.webp 760w,
                /post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_a2db5b0651fb0e7ad1b2067f37faa528.webp&#34;
+               src=&#34;https://example.com/post/markdown/3.1_hud0d0e31c770a5c827d51e3403195cf9a_22546_0ee758a4da6fa40941c2a64b6a2e2a44.webp&#34;
                width=&#34;760&#34;
                height=&#34;392&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -163,7 +200,7 @@ So it definitely pays to recognize and understand the syntax, which, luckily, is
     </item>
     
     <item>
-      <title>Last week 25.04-01.05</title>
+      <title>Last_week 25.04-01.05</title>
       <link>https://example.com/post/last_week/</link>
       <pubDate>Sat, 07 May 2022 03:49:09 +0300</pubDate>
       <guid>https://example.com/post/last_week/</guid>

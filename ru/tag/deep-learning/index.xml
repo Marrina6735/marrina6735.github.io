@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Академический сайт научного работника</title>
+    <link>https://marrina6735.github.io/ru/tag/deep-learning/</link>
+      <atom:link href="https://marrina6735.github.io/ru/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marrina6735.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://marrina6735.github.io/ru/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Индивидуальный проект личный сайт исследователя</title>
+      <link>https://marrina6735.github.io/ru/project/example/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://marrina6735.github.io/ru/project/example/</guid>
+      <description>&lt;h4 id=&#34;начну-с-того-что-этот-проект-я-выполнял-в-рамках-учебной-программы-по-дисциплине-операционные-системы-на-каждый-этап-отводилась-неделя-в-течение-которой-нужно-было-создавать-посты-добавлять-информацию-о-себе-а-также-писать-небольшие-научные-статьи-на-выбранные-темы&#34;&gt;Начну с того, что этот проект я выполнял в рамках учебной программы по дисциплине &amp;ldquo;Операционные системы&amp;rdquo;. На каждый этап отводилась неделя, в течение которой нужно было создавать посты, добавлять информацию о себе, а также писать небольшие научные статьи на выбранные темы.&lt;/h4&gt;
+&lt;p&gt;Вот подробные пункты для выполнения этого проекта, все детали и ссылки на конкретные сайты регистрации, а также темы научных статей для создания:&lt;/p&gt;
+&lt;h2 id=&#34;разместить-на-страницах-github-чертеж-персонального-сайта&#34;&gt;Разместить на страницах Github чертеж персонального сайта.&lt;/h2&gt;
+&lt;p&gt;Установите необходимое программное обеспечение.&lt;/p&gt;
+&lt;p&gt;Скачайте шаблон темы сайта.&lt;/p&gt;
+&lt;p&gt;Разместите его на хостинге git.&lt;/p&gt;
+&lt;p&gt;Задайте параметр для URL-адресов сайта.&lt;/p&gt;
+&lt;p&gt;Разместите чертеж сайта на страницах Github.&lt;/p&gt;
+&lt;h2 id=&#34;добавить-данные-о-себе-на-сайт&#34;&gt;Добавить данные о себе на сайт.&lt;/h2&gt;
+&lt;p&gt;Список данных, которые необходимо добавить.&lt;/p&gt;
+&lt;p&gt;Разместить фотографию владельца сайта.&lt;/p&gt;
+&lt;p&gt;Разместить краткое описание владельца сайта (Биография).&lt;/p&gt;
+&lt;h2 id=&#34;добавить-интересы&#34;&gt;Добавить интересы.&lt;/h2&gt;
+&lt;h2 id=&#34;добавить-информацию-об-образовании&#34;&gt;Добавить информацию об образовании.&lt;/h2&gt;
+&lt;p&gt;Сделайте пост на тему прошлой недели.&lt;/p&gt;
+&lt;p&gt;Добавить сообщение на тему по вашему выбору:&lt;/p&gt;
+&lt;p&gt;Контроль версий. Git.&lt;/p&gt;
+&lt;p&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/p&gt;
+&lt;p&gt;Добавьте достижения на сайт.&lt;/p&gt;
+&lt;h2 id=&#34;список-достижений&#34;&gt;Список достижений.&lt;/h2&gt;
+&lt;p&gt;Добавить информацию о навыках.&lt;/p&gt;
+&lt;p&gt;Добавьте информацию об опыте.&lt;/p&gt;
+&lt;p&gt;Добавьте достижения.&lt;/p&gt;
+&lt;p&gt;Сделайте сообщение о прошедшей неделе.&lt;/p&gt;
+&lt;p&gt;Добавить сообщение на выбранную вами тему:&lt;/p&gt;
+&lt;p&gt;Легкие языки разметки.&lt;/p&gt;
+&lt;p&gt;Языки разметки. LaTeX.&lt;/p&gt;
+&lt;p&gt;Язык разметки Markdown.&lt;/p&gt;
+&lt;p&gt;Добавьте на сайт ссылки на научные и библиометрические ресурсы.&lt;/p&gt;
+&lt;h2 id=&#34;зарегистрируйтесь-на-соответствующих-ресурсах-и-разместите-ссылки-на-них-на-сайте&#34;&gt;Зарегистрируйтесь на соответствующих ресурсах и разместите ссылки на них на сайте:&lt;/h2&gt;
+&lt;p&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Сделайте сообщение о прошедшей неделе.&lt;/p&gt;
+&lt;p&gt;Добавить сообщение на выбранную тему:&lt;/p&gt;
+&lt;p&gt;Форматирование отчетов.&lt;/p&gt;
+&lt;p&gt;Создание презентаций.&lt;/p&gt;
+&lt;p&gt;Работа с библиографией.&lt;/p&gt;
+&lt;p&gt;Добавьте все остальные элементы на сайт.&lt;/p&gt;
+&lt;h2 id=&#34;сделать-пост-для-личных-проектов&#34;&gt;Сделать пост для личных проектов.&lt;/h2&gt;
+&lt;p&gt;Сделать пост о прошедшей неделе.&lt;/p&gt;
+&lt;p&gt;Добавить пост на тему по выбору.&lt;/p&gt;
+&lt;p&gt;Научные языки программирования.&lt;/p&gt;
+&lt;p&gt;Разместите двуязычный сайт на Github.&lt;/p&gt;
+&lt;h2 id=&#34;сделайте-поддержку-английского-и-русского-языков&#34;&gt;Сделайте поддержку английского и русского языков.&lt;/h2&gt;
+&lt;p&gt;Разместите элементы сайта на обоих языках.&lt;/p&gt;
+&lt;p&gt;Разместить контент на обоих языках.&lt;/p&gt;
+&lt;p&gt;Сделать пост о прошедшей неделе.&lt;/p&gt;
+&lt;p&gt;Добавить пост на выбранную тему (на двух языках).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

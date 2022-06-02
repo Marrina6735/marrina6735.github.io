@@ -1,71 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
+  <sitemap>
+    <loc>https://marrina6735.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-27T00:01:41+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/scientific_programming_languages/</loc><lastmod>2022-05-27T00:01:41+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/last_week5/</loc><lastmod>2022-05-26T23:57:47+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/last_week04/</loc><lastmod>2022-05-18T03:26:21+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/working_with_bibliographies/</loc><lastmod>2022-05-18T03:23:49+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/markdown/</loc><lastmod>2022-05-13T13:37:50+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/last_week3/</loc><lastmod>2022-05-13T13:31:06+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/git/</loc><lastmod>2022-05-07T04:07:28+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/last_week/</loc><lastmod>2022-05-07T03:49:09+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><changefreq>weekly</changefreq></url></urlset>
+  <sitemap>
+    <loc>https://marrina6735.github.io/ru/sitemap.xml</loc>
+    
+      <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
